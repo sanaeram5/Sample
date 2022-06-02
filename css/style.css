@@ -1,0 +1,255 @@
+@import url('http://fonts.cdnfonts.com/css/basier');
+:root {
+    --blue: #1E1E2F;
+    --orange: #EE6F1B; 
+  }
+body{
+    font-family: 'Basier Circle'!important;
+    background-color: #F5F5F5 !important;
+}
+.navbar,.container1,.manufacturing{
+    padding-left: 5%!important;
+    padding-right: 5%!important;
+}
+.material-parts{
+    margin-left: 5% !important;
+}
+.logo{
+    font-weight: 700 !important;
+}
+.nav-item{
+    color: black !important;
+    font-weight: 600 !important;
+}
+.request-quote{
+    background-color: var(--blue)!important;
+    color: white!important;
+}
+.contact-us{
+    background-color: #F6F0EC!important;
+    color: var(--orange)!important;
+}
+.block1{
+    color:var(--blue)!important;
+    font-size: 46px!important;
+    letter-spacing: -0.02em!important;
+    font-weight: 400!important;
+    line-height: 64px!important;
+}
+.dot{
+    color: var(--orange)!important;
+    width:8px!important;
+}
+.block2{
+    color: #000000!important;
+    font-weight: 400!important;
+    font-size: 20px!important;
+    line-height: 28px!important;
+    letter-spacing: -0.02em!important;
+    font-family: 'Basier Circle'!important;
+}
+.block3{
+    color: var(--blue) !important;
+}
+.get-quote{
+    background-color: var(--orange)!important;
+    color: white!important;
+    position: absolute!important;
+    right: 60%!important;
+    bottom: 25%!important;
+}
+.section1{
+    position: relative!important;
+}
+.text1{
+    position: absolute!important;
+    top: 10%!important;
+    left: 30% !important;
+    font-size: 32px!important;
+}
+.button1{
+    position: absolute!important;
+    top: 40%!important;
+    left: 30% !important;
+}
+.text2{
+    position: absolute!important;
+    top: 10%!important;
+    left: 55% !important;
+    font-size: 32px!important;
+}
+.button2{
+    position: absolute!important;
+    top: 40%!important;
+    left: 55% !important;
+}
+.learn-more{
+    background-color: var(--blue)!important;
+    color: white!important;
+}
+.sec_card{
+    border-radius: 20px !important;
+    background-color: #ffffff !important;
+    box-shadow: "0px 0px 20px -5px rgba(0, 0, 0, 0.05)"!important;
+    border-color: grey !important;
+}
+.client-review{
+    position: relative !important;
+}
+.client_text{
+    position: absolute !important;
+    top:10% !important;
+    left:5% !important;
+}
+.client_heading{
+    color:white !important;
+    font-weight: 400 !important;
+    font-size: 40px !important;
+    line-height: 48px !important;
+    letter-spacing: -0.02em !important;
+}
+.evaluations{
+    position: relative !important;
+}
+.evaluation-text{
+    position: absolute !important;
+    top: 15% !important;
+    left:8% !important;
+}
+.card{
+    padding: 7% !important;
+}
+.card_text{
+    color:var(--blue) !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    opacity: 0.8 !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+    padding-bottom: 6% !important;
+}
+.dir{
+    color:var(--blue) !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 14px !important;
+    letter-spacing: -0.02em !important;
+    padding-bottom: 4% !important;
+}
+.cred{
+    color: var(--orange) !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 14px !important;
+    letter-spacing: -0.02em !important;
+}
+.inner{
+    background-color: white !important;
+    margin-right: 15%;
+    padding: 9% 12%;
+}
+.header1{
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    opacity: 0.8 !important;
+    color: var(--blue) !important;
+    line-height: 14px !important;
+    text-align: center !important;
+}
+.header2{
+    font-weight: 400 !important;
+    font-size: 40px !important;
+    color: var(--blue) !important;
+    line-height: 48px !important;
+    text-align: center !important;
+    letter-spacing: -0.02em !important;
+}
+.exp{
+    color:var(--blue) !important;
+    font-size: 24px !important;
+    line-height: 28px !important;
+    letter-spacing: -0.02em !important;
+}
+.num{
+    color:var(--blue);
+    font-size: 20px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+}
+.txt{
+    color:var(--blue) !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+    opacity: 0.6 !important;
+}
+.material-header{
+    font-weight: 500 !important;
+    font-size: 40px !important;
+    line-height: 48px !important;
+    letter-spacing: -0.02em !important;
+    color: var(--blue) !important;
+}
+.nav-pills{
+    margin-left: 30% !important;
+}
+.nav-pills .nav-link{
+    color:var(--blue) !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+}
+.nav-pills .nav-link.active{
+    background-color: #F5F5F5 !important;
+    text-decoration: underline !important;
+}
+.nav-pills .nav-link:active{
+    color:var(--blue) !important;
+    text-decoration: underline !important;
+    background-color: none !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+}
+.head{
+    color:var(--blue) !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+}
+.desc{
+    color:var(--blue) !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+    opacity: 0.8 !important;
+}
+.last{
+    color:var(--blue) !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    letter-spacing: -0.02em !important;
+}
+.carousel-control-prev{
+    position: absolute !important;
+    top:-45% !important;
+    left: 75% !important;
+    background-color: var(--orange) !important;
+    border-radius: 50% !important;
+    width: 4% !important;
+    height: 20% !important;
+}
+.carousel-control-next{
+    position: absolute !important;
+    top:-45% !important;
+    left: 80% !important;
+    background-color: var(--orange) !important;
+    border-radius: 50% !important;
+    width: 4% !important;
+    height: 20% !important;
+}
